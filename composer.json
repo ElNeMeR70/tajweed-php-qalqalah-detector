@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-qalqalah-detector",
+  "description": "Qalqalah Plosive Acoustic Bounce Detector (Qutb Jad) (كاشف حروف القلقلة الصغرى والكبرى وأحكام قطب جد)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
